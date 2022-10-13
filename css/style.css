@@ -280,9 +280,9 @@ img {
   text-align: left;
 }
 
-.hero-form-label:last-child {
+/* .hero-form-label:last-child {
   margin-bottom: 20px;
-}
+} */
 
 .hero-form-field {
   display: block;
